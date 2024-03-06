@@ -98,8 +98,8 @@ class _CustomAppBarState extends State<CustomAppBar> {
         ),
         gradient: LinearGradient(
           colors: [
-            Colors.orangeAccent,
-            Colors.deepPurpleAccent,
+            Colors.lightBlueAccent,
+            Colors.blueAccent,
           ],
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
